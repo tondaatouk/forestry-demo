@@ -1,0 +1,17 @@
+---
+navigation:
+- identifier: _index
+  weight: 1
+  title: Home
+- identifier: _projects
+  weight: 3
+  title: Projects
+- identifier: _posts
+  weight: 4
+  title: Posts
+- identifier: _about
+  weight: 2
+  title: About
+- identifier: _contact
+  weight: 5
+  title: Contact
